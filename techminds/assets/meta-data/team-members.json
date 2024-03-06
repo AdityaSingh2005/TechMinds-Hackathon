@@ -1,15 +1,5 @@
 [
-    {
-        "name": "Purvesh Gupta",
-        "role": "Leader",
-        "image": "assets/img/team/purvesh_gupta.jpg",
-        "social": {
-            "insta": "purvesh__gupta",
-            "linkedin": "purvesh-gupta-736b95256",
-            "email": "purveshgupta19@gmail.com"
-        },
-        "category": "Lead Organizer"
-    },
+    
     {
         "name": "Pratham Batra",
         "role": "Leader",
@@ -71,43 +61,13 @@
         }
     },
     {
-        "name": "Aditya Taneja",
+        "name": "Harshita Pathak",
         "role": "Member",
-        "image": "",
+        "image": "assets/img/team/harshita_pathak.png",
         "category": "Web Dev",
         "social": {
-            "insta": "",
-            "linkedin": ""
-        }
-    },
-    {
-        "name": "Navneet Baid",
-        "role": "Member",
-        "image": "assets/img/team/navneet_baid.png",
-        "category": "Web Dev",
-        "social": {
-            "insta": "navneet.baid",
-            "linkedin": "navneet-b-a418ab187"
-        }
-    },
-    {
-        "name": "Pritam Shil",
-        "role": "Member",
-        "image": "assets/img/team/pritim_shil.jpg",
-        "category": "Web Dev",
-        "social": {
-            "insta": "its_pritam_shil03",
-            "linkedin": "pritam-shil-19178a274"
-        }
-    },
-    {
-        "name": "Rupesh Sharma",
-        "role": "Member",
-        "image": "assets/img/team/rupesh_sharma.jpeg",
-        "category": "Web Dev",
-        "social": {
-            "insta": "r_u_r_sharma",
-            "linkedin": "rupesh-sharma-a22905211"
+            "insta": "__",
+            "linkedin": "harshita-pathak-a557b6256"
         }
     }
 ]
